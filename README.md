@@ -2,8 +2,8 @@
 
 There are five different Questions related to each topic:
 
-HTTP -> math application through http get
-Middleware -> login using middleware
-Routing -> Countries application using routing
-Controller -> banking application using controllers
-Model Binding -> E-Commerce application hrough bindind
+1. HTTP -> math application through http get
+2. Middleware -> login using middleware
+3. Routing -> Countries application using routing
+4. Controller -> banking application using controllers
+5. Model Binding -> E-Commerce application hrough bindind
