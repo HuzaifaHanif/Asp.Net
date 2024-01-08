@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UCXYOHESb7P/DFYvwIpNONPlvwgeWI7MJLmDkjqcGL8=",
+  "Source": "BankingApplication",
+  "BasePath": "_content/BankingApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankingApplication\\wwwroot",
+      "Source": "BankingApplication",
+      "ContentRoot": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\BankingApplication\\wwwroot\\",
+      "BasePath": "_content/BankingApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\BankingApplication\\wwwroot\\feeChallan.pdf",
+      "SourceId": "BankingApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\BankingApplication\\wwwroot\\",
+      "BasePath": "_content/BankingApplication",
+      "RelativePath": "feeChallan.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\feeChallan.pdf"
+    }
+  ]
+}

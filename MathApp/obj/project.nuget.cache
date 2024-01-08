@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3aGjX6wJudhfhBSSncPnkeWvwZrYjw5Z8O/NQKopl2DMr3TzZ5Gvqj7yDjEIiOyxg7DCR6P9f1JYyZCQ+nNFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\MathApp\\MathApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

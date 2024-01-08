@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHhmyi0FN1W5wCAsGAXYmZQskKmsLvckeB821NqbWgnFcocFKIsUNBBeY7G+Rbaa8n3wkOyv+zt/wnSLAb/6NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\CountriesAPPUsingRouting\\CountriesAPPUsingRouting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

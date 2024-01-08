@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvg2DCp+e7PV6iDnZXUnoT1fJr9YGd1lwHIh0rPtFUck6yCMRTT+dnPWBgCo1nOm7ty2mgJUIceiuYw/Ch4T0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wajiz.pk\\Desktop\\aspnetcore\\e-CommerceApp\\e-CommerceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\wajiz.pk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
